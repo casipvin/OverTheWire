@@ -1,0 +1,7 @@
+Należy odnaleźć plik - znajdujący się w katalogu domowym, w nim jest hasło.
+
+Odpowiedź: 
+cat - zostanie potraktowane jako polecenie i uruchomi tryb interaktywny. Prawidłowe rozwiązanie to cat ./-
+./ oznacza bieżący katalog.
+
+Hasło: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
