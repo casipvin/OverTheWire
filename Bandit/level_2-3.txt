@@ -1,0 +1,7 @@
+Należy odnaleźć hasło w pliku o nazwie --spaces in this filename--.
+
+Odpowiedź:
+cat "./--spaces in this filename--" albo cat ./--space\ in\ this\ filename--
+Do plików ze spacjami w nazwie można użyć cudzysłowia albo znaków ucieczki.
+
+Hasło: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
