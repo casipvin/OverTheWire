@@ -1,0 +1,11 @@
+Należy odnaleźć plik readme znajdujący się w katalogu domowym. 
+W nim znajduje się hasło.
+
+Odpowiedź: 
+
+pwd - nasza lokalizacja ls - wyświetlenie plików cat readme 
+wyświetlenie zawartości pliku readme
+Protip: zaznaczenie tekstu myszką i kliknęcie środkowym przyciskiem kopiuje do 
+osobnego schowka
+
+Hasło: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
