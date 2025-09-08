@@ -1,0 +1,7 @@
+Należy znaleźć plik o właściwościach: human readable, 1033 bytes, not executable.
+
+Odpowiedź: 
+cd inhere, find . -type -f -size 1033c ! -executable.
+Protip: Ewentualnie końcówka ! -perm -111 albo /111, co oznacza -111 nie ma wszystkich bitów oznaczonych, albo /111 nie ma żadnego. Wytłumaczenie perm 111, czy jakiekolwiek bity wykonywalnych są ustawione: 100 wykonywalność dla właściciela, 010 dla grupy, 001 dla innych.
+
+Hasło: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
