@@ -1,0 +1,7 @@
+Należy znaleźć ukryty plik w folderze inhrere.
+
+Odpowiedź:
+cd inhere, a potem ls -a, pokazuje ukryte pliki. Ewentualnie find -name ".*".
+cat ...Hiding-From-You. Jedna kropka to ukryty plik, dwie pozostałe to nazwa pliku.
+
+Hasło: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
