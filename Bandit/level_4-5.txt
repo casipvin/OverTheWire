@@ -1,0 +1,6 @@
+Należy znaleźć plik "only readable for human" w folderze inherite.
+
+Odpowiedź: 
+cd inherite, następnie find ./* żeby sprawdzić rodzaj pliku. Właściwy to ten z z ACII text.
+
+Hasło: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
