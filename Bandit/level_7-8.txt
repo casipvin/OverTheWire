@@ -1,0 +1,6 @@
+Należy znaleźć hasło w pliku data.txt obok słowa "millionth"
+
+Odpowiedź: 
+cat data.txt | grep "millionth"
+
+Hasło: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
