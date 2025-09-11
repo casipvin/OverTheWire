@@ -1,0 +1,6 @@
+Należy znaleść linię tekstu, czyli hasła, która jest unikalna w całym pliku data.txt
+
+Odpowiedź: 
+sort data.txt | uniq -c. Sort sortuje linie, a uniq pokazuje unikalne linie, a z -c liczy ile razy każda linia występuje.
+
+Hasło: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
