@@ -1,0 +1,6 @@
+Należy znaleść na całym serwerze plik o parametrach: owned by user bandit7, owned by group bandit6, 33 bytes in size
+
+Odpowiedź:
+find / -type f -user bandit7 -group bandit6 -size 33c. / szuka w całym systemie.
+
+Hasło: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj 
